@@ -14,7 +14,7 @@ To post material do the following:
 
 `$ git clone https://github.com/HPCSys-Lab/QueryProcessing-GPU.git`
 
-###### Inside the repository you just cloned, configure Git to sync your fork with the original StencilCodes4GPUs repository:
+###### Inside the repository you just cloned, configure Git to sync your fork with the original QueryProcessing-GPU repository:
 
 `$ git remote add upstream https://github.com/HPCSys-Lab/QueryProcessing-GPU.git`
 
